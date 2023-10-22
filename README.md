@@ -15,6 +15,6 @@ This is a simple learning project utilizing Tailwind CSS to create an email-subs
 
 ## Acknowledgements
 
-This project was completed as part of [Brad Traversy's](https://github.com/bradtraversy) 
+This project was completed as part of [Brad Traversy's](https://github.com/bradtraversy) Tailwind CSS course.
 
 
